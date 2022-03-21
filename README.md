@@ -1,2 +1,3 @@
 # rsschool-cv
-[https://snorrky.github.io/rsschool-cv/cv](https://snorrky.github.io/rsschool-cv/cv)
+[Markdown CV](https://snorrky.github.io/rsschool-cv/cv)
+[HTML CV](https://snorrky.github.io/rsschool-cv/)
